@@ -1,0 +1,11 @@
+{
+  "name": "test-audio-loudnessb1770",
+  "version": "1.0.0",
+  "description": "ITU-R BS.1770 Loudness Monitor softapp for APK.audio",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "author": "Anthony Kuzub",
+  "license": "MIT"
+}
